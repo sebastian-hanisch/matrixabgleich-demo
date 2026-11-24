@@ -1,7 +1,6 @@
 # Matrix abgleichen – dieselben vier Zeilen Code in vier Fächern – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-matrixabgleich-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-matrixabgleich-demo.streamlit.app/)**
 
 Demo der Reihe **Optimaler Transport: Verteilungen ineinander verschieben** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“. Sie baut auf der Demo zum Transportproblem (der billigste Plan bei festen Randsummen) und auf der Demo zu Sinkhorn (dieselbe Skalierungsrechnung mit dem Kern exp(−C/ε)) auf. Vehikel sind **Zonen im Einheitsquadrat**: eine **alte Matrix** (zum Beispiel Fahrten von Herkunfts- zu Zielzonen aus einer früheren Zählung) soll auf neue **Randsummen** (Zeilensummen = Herkunft, Spaltensummen = Ziel) abgeglichen werden.
 
