@@ -1,0 +1,36 @@
+{
+ "reihe_gravitation|anzahl=50,familie='Gravitation mit Rauschen',n=12": {
+  "familie": "Gravitation mit Rauschen",
+  "n": 12,
+  "anzahl": 50,
+  "kalibriert": 49,
+  "tv": [
+   0.09476851998401797,
+   0.027327736340028816,
+   0.1675118759456607
+  ],
+  "rand": 3.76841463165246e-15,
+  "durchlaeufe": [
+   2120.0,
+   113.0,
+   400000.0
+  ]
+ },
+ "reihe_gravitation|anzahl=50,familie='andere Hemmfunktion (C + 0,05)⁻²',n=12": {
+  "familie": "andere Hemmfunktion (C + 0,05)⁻²",
+  "n": 12,
+  "anzahl": 50,
+  "kalibriert": 48,
+  "tv": [
+   0.12139961316967884,
+   0.0846928044536485,
+   0.15609606467332296
+  ],
+  "rand": 6.455274925767017e-16,
+  "durchlaeufe": [
+   43558.5,
+   6633.0,
+   400000.0
+  ]
+ }
+}
